@@ -23,9 +23,9 @@
 <h2>Skills</h2>
 <ul>
   <li><strong>Languages</strong>: Python, SQL, Rust</li>
-  <li><strong>Frameworks</strong>: Pyrogram, Flask, FastAPI</li>
+  <li><strong>Frameworks</strong>: Flask, FastAPI</li>
   <li><strong>Databases</strong>: MySQL, SQLite</li>
-  <li><strong>Tools</strong>: SQLAlchemy, Web Scraping</li>
+  <li><strong>Tools</strong>: SQLAlchemy</li>
 
 <h2>Connect with Me</h2>
 <ul>
