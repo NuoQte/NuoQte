@@ -22,14 +22,14 @@
 <p>I am 21 years old and I love object-oriented programming</p>
 <h2>Skills</h2>
 <ul>
-  <li><strong>Languages</strong>: Python, SQL, Rust</li>
+  <li><strong>Languages</strong>: Python, SQL, Rust, Go, Js</li>
   <li><strong>Frameworks</strong>: Flask, FastAPI</li>
   <li><strong>Databases</strong>: MySQL, SQLite</li>
   <li><strong>Tools</strong>: SQLAlchemy</li>
 
 <h2>Connect with Me</h2>
 <ul>
-  <li><a href="https://t.me/NuoQTe">Telegram</a></li>
+  <li><a href="https://t.me/psrZesht">Telegram</a></li>
     </ul>
 
 <p>Feel free to reach out for collaborations or tech discussions!</p>
